@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 35px;
+}
+
+.nav_logo_text, .nav_title{
+    margin:0;
+}
+
+.nav_logo_text{
+    margin-right: auto;
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.nav_title {
+    color: #DEEBF8;
+    font-weight: 600;
+}
+
+.logo {
+    width:40px;
+    margin-right: 30px;
+}
+
